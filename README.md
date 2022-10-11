@@ -8,7 +8,7 @@ The code analyzed the attributes of resulting generated edge weight data, includ
   - Edge weight over time
   - Change in edge weight for each edge 
   - Average slopes of each label (MNIST digits) per edge basis
-  - # of activations per time window in the simulation
+  - "# of activations per time window in the simulation"
   - LDA was used to visualize data onto euclidean space
   - KNN on the LDA data to see if clustering was significant (to see if edge space could be used to improve classification in substitution of feature space--which was not the case).
   - Data visualization and analysis of excitatory/inhibitory edge weights
